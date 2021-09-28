@@ -30,7 +30,7 @@ const App = () => {
         breed: "Bull",
       }),
       React.createElement(Dog, {
-        name: "Puppy",
+        name: "Lion",
         weight: "5.70 Kg",
         breed: "husky",
       }),
